@@ -1,6 +1,6 @@
-## Sales-Data-Analysis-Dashboard
+**Sales-Data-Analysis-Dashboard**
 
-## Overview
+**Overview**
 
 This project demonstrates a Sales Data Analysis Dashboard using Excel and Power BI. It focuses on cleaning, visualizing, and analyzing sales datasets to provide actionable insights for businesses.
 
